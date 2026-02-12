@@ -121,15 +121,15 @@ Framework reutilizable de validación de datos en múltiples capas del pipeline 
 ## 📊 Experiencia Profesional (Resumen)
 
 ```
-2024 - Presente  │  Senior Data Engineer @ [Empresa]
+2024 - Presente  │  Senior Data Engineer @ [Bctecnologia]
                   │  Arquitectura Lakehouse, Databricks, 
                   │  ADF, Unity Catalog, liderazgo técnico
                   │
-2023 - 2024      │  Senior Data Engineer @ [Empresa]
+2023 - 2024      │  Senior Data Engineer @ [Prediqt Data]
                   │  Synapse Analytics, SSIS migration,
                   │  pipelines batch + streaming
                   │
-2020 - 2023      │  Data Engineer  @ [Empresa]
+2020 - 2023      │  Data Engineer  @ [Santander Consumer]
                   │  ETL con SSIS, SQL Server, 
                   │  primeros proyectos en Azure
 ```
